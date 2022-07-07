@@ -1,0 +1,15 @@
+h1 {
+    color : red;
+}
+h2 {
+    color : rgb(255,165,0);
+}
+h3 {
+    color : #ffff00;
+}
+h4 {
+    color : hsl(240, 100%, 50%);
+}
+div {
+    background-color : black;
+}
